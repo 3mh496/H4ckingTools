@@ -42,7 +42,7 @@ print('''-=[ MyTools ]=-
 [2] Install tracking location
 [3] Install prank
 [4] Install phiscam
-[5] Install rasomware
+[5] Install virus rasomware android
 [x] Keluar
 ''')
 menu = input('[?] Silahkan pilih menu : ')
